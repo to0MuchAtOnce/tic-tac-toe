@@ -1,3 +1,1 @@
-const container = document.getElementById('container');
-
-// Gameboard object, which contains the gameboard stored in an array.
+// Store the gameboard as an array inside of a Gameboard object
