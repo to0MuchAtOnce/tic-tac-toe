@@ -1,0 +1,19 @@
+:root {
+  --bg-color: #abadb4;
+}
+
+body {
+  background-color: var(--bg-color);
+}
+
+.heading-blue {
+  color: #136bd1;
+}
+
+.heading-red {
+  color: #db4e2f;
+}
+
+.heading-green {
+  color: #2e9d12;
+}
